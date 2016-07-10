@@ -1,0 +1,49 @@
+.header{
+	height:130px;
+	background-color:black;
+	opacity: 0.8;
+	color:white;
+	padding: 10px
+}
+
+.element{
+	font-size: 18px;
+	border:1px solid black;
+	border-radius: 5px;
+	margin:10px;
+	text-align: center
+}
+
+.element > .col-md-2 {
+	background-color: #686868;
+	color:white;
+}
+
+.element > .col-md-5 {
+	background-color: #686868;
+	color:white;	
+}
+div{
+	word-wrap: break-word;
+}
+.back{
+	background-color:#787878; 
+	color:white;
+}
+.feedbackEntry{
+	border-bottom: 1px solid;
+}
+.impFeed{
+	background-color: red;
+	color: white;
+}
+body{
+	overflow-x: hidden;
+}
+.editable{
+	 background-color: 	#A0A0A0  ;
+	 color: white;
+}
+.btnVisibility{
+	visibility: hidden;
+}
